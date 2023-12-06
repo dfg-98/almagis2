@@ -1,0 +1,1 @@
+inkscape -D --export-filename=.\Graphics\uhlogo.eps --export-latex .\Graphics\uhlogo.svg
